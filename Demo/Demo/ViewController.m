@@ -29,6 +29,7 @@
 //    ttSuper.receiver = student;//消息的接收者
 //    ttSuper.super_class = [Person class];//父类是谁
 //    objc_msgSendSuper(&ttSuper, sel_registerName("hello"));
+    //test
     [person hello];
 }
 @end
